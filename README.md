@@ -1,9 +1,18 @@
 # 👋 Hi, I'm Rave!
 
-I'm a **Full-Stack Developer** with a growing interest in **Cybersecurity**.
+I'm a **Full-Stack Developer** currently diving into the world of **Cybersecurity**.  
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,flutter,git,php)](https://skillicons.dev)
+---
 
-![Discord Presence](https://lanyard.cnrad.dev/api/922600200743313428)
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,js,flutter,dart,figma,git,bash,cpp,kali)](https://skillicons.dev)
+
+---
 
 
+<h3 align="center">Discord</h3>
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/922600200743313428" alt="Discord Presence" />
+</p>
