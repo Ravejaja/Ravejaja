@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rave!
 
-I'm a **Full-Stack Developer** currently diving into the world of **Cybersecurity**.  
+I'm a **Full-Stack Developer | Software Engineer** currently diving into the world of **Cybersecurity**.  
 
 ---
 
