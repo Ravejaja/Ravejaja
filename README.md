@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rave!
 
-I'm a **Full-Stack Developer | Software Engineer** currently diving into the world of **Cybersecurity**.  
+I'm a **Full-Stack Developer 
 
 ---
 
@@ -10,8 +10,4 @@ I'm a **Full-Stack Developer | Software Engineer** currently diving into the wor
 
 ---
 
-<h3 align="center">Discord</h3>
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/922600200743313428" alt="Discord Presence" />
-</p>
+  
